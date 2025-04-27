@@ -2,7 +2,7 @@
   "name": "presonus-studiolive-api--pcap-replay",
   "version": "1.0.0",
   "repository": "https://github.com/featherbear/presonus-studiolive-api--pcap-replay.git",
-  "author": "Andrew Wong <awong6@atlassian.com>",
+  "author": "Andrew Wong <andrew.j.wong@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "@node-loaders/mock": "^1.1.0",
