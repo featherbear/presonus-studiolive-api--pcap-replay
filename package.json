@@ -4,6 +4,9 @@
   "repository": "https://github.com/featherbear/presonus-studiolive-api--pcap-replay.git",
   "author": "Andrew Wong <awong6@atlassian.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node --import tsx src/entry.ts"
+  },
   "dependencies": {
     "@node-loaders/mock": "^1.1.0",
     "bunyan": "^1.8.15",
