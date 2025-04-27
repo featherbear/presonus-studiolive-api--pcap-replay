@@ -1,0 +1,21 @@
+{
+  "name": "presonus-studiolive-api--pcap-replay",
+  "version": "1.0.0",
+  "repository": "https://github.com/featherbear/presonus-studiolive-api--pcap-replay.git",
+  "author": "Andrew Wong <awong6@atlassian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@node-loaders/mock": "^1.1.0",
+    "bunyan": "^1.8.15",
+    "chalk": "^5.4.1",
+    "ip-address": "^10.0.1",
+    "pcap": "^3.1.0",
+    "queue": "^6"
+  },
+  "devDependencies": {
+    "@types/bunyan": "^1.8.11",
+    "@types/node": "18",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
